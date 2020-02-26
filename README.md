@@ -1,4 +1,4 @@
 # Snake
 Snake game
 
-![alt text]
+![alt text](https://github.com/RoobyJ/Snake/blob/master/Snake.PNG)
